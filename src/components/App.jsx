@@ -1,6 +1,6 @@
 
 import Confirmacion2 from './confirmacion.jsx'
-import Tlogin from './TLogin.jsx';
+
 
 function App() {
 
@@ -8,8 +8,8 @@ function App() {
     <div>
 
     <Confirmacion2 />
+
     
-    <Tlogin/>
   </div>
   )
 }

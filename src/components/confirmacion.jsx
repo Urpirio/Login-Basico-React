@@ -24,6 +24,7 @@ import FormOrigenEnd from './prevent2.jsx';
                     
                      <button id='btn-r' onClick={Sconfir}>{M_confir ? "Registrar" : "Volver"}</button>
                     
+                     
                      </div>
                     
                     </div>

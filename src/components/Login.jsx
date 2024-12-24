@@ -8,12 +8,6 @@ function Login(){
 </div>
 
   <div className='formulario' >
-    
-    <input id='Email' type="Email" placeholder='Email' />
-
-  </div>
-
-  <div className='formulario' >
 
     <input id='password' type="password" placeholder='Contraseña' />
 
